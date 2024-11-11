@@ -10,8 +10,7 @@
 ---
 ### My Projects:
 * [Poker Bot](https://github.com/voverius/Poker-Bot) - Advanced tool designed to enhance your PokerStars gaming experience
-
-
+* [Portfolio Balancer](https://github.com/voverius/Portfolio-Balancer) - Machine learning model designed to optimize portfolio allocation for asset trading
 
 
 ---
