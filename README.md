@@ -5,8 +5,7 @@ Software Developer with a background in Mechanical Engineering and a deep passio
 <!-- </td><td valign="top" width="50%"> -->
 
 #### Reach me:  
-<a href="https://www.linkedin.com/in/Ramaneckas" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-4A8B99?style=flat&logo=linkedin&labelColor=4A8B99" alt="your-linkedin" /></a>
-<img align="center" src="https://img.shields.io/badge/%40-mail-4A8B99" alt="xsjadovic@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/Ramaneckas" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-4A8B99?style=flat&logo=linkedin&labelColor=4A8B99" alt="LinkedIn" /></a>
 
 ---
 ### My Projects:
