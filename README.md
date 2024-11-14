@@ -9,9 +9,9 @@
 
 ---
 ### My Projects:
-* [Poker Bot](https://github.com/voverius/Poker-Bot) - Advanced tool designed to enhance your PokerStars gaming experience
+* [Poker Bot](https://github.com/voverius/Poker-Bot) - Advanced tool designed to enhance your PokerStars gaming experience using Game Theory
 * [Portfolio Balancer](https://github.com/voverius/Portfolio-Balancer) - Machine learning model designed to optimize portfolio allocation for asset trading
-* [ChatGPT Telegram Chat](https://github.com/voverius/ChatGPT-Telegram) - Interact with ChatGPT through a telegram chat
+* [ChatGPT Telegram Chat](https://github.com/voverius/ChatGPT-Telegram) - Interact with ChatGPT through a telegram chat (Dockerized)
 * [ML Food Recognition](https://github.com/voverius/Food-Recognition) - A multiclass classification project using TensorFlow on the Food-101 dataset
 
 ---
