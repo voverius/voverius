@@ -1,5 +1,5 @@
 <h4 align="justify"> 
-Software Developer with a background in Mechanical Engineering and a deep passion for Data Science, Machine Learning, and AI. I have hands-on experience building resilient data systems, creating predictive models, and optimizing processes to tackle complex, data-driven challenges. Here, you'll find a collection of my projects that reflect my dedication to continuous learning and delivering meaningful solutions.
+Software Engineer with a background in Mechanical Engineering and a deep passion for Data Science and Machine Learning. I have hands-on experience building resilient data systems, creating predictive models, and optimizing processes to tackle complex, data-driven challenges. Here, you'll find a collection of my projects that reflect my dedication to continuous learning and delivering meaningful solutions.
 </h4>
 
 
