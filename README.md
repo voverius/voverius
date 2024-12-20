@@ -3,10 +3,6 @@ Software Engineer with a background in Mechanical Engineering and a deep passion
 </h4>
 
 
-Reach me:   
-<a href="https://www.linkedin.com/in/Ramaneckas" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-2a5b84?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-
 ## My Projects:
 - [Poker Bot](https://github.com/voverius/Poker-Bot) - Advanced tool designed to enhance your PokerStars gaming experience using Game Theory
 - [Portfolio Balancer](https://github.com/voverius/Portfolio-Balancer) - Machine learning model designed to optimize portfolio allocation for asset trading
